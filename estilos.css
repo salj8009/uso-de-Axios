@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Gotu&display=swap');
+body {
+	background: #BBD2C5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #536976, #BBD2C5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #536976, #BBD2C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#btnPrecios {
+	margin: 1em;
+	padding: .9em;
+}
+#contenedor {
+	margin: 1em 2em;
+}
+.mydiv {
+	margin: 1em;
+	padding: 1em;
+	font-family: 'Gotu', sans-serif;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
